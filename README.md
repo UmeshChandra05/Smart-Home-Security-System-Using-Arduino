@@ -1,1 +1,1 @@
-This Repository Contains Files of Electronics Module: Arduino Programming, Part of Project: "Smart Home Security System" in partial fulfilment of requirement for the InnoaveteX Summer School 2024, Sahaay Social Innovation Club, IITM
+This Repository Contains Files of <b>Electronics Module: Arduino Programming</b>, Part of Project: <b>"Smart Home Security System"</b> in partial fulfilment of requirement for the InnoaveteX Summer School 2024, Sahaay Social Innovation Club, IITM
